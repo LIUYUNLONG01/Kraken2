@@ -1,0 +1,573 @@
+﻿species,abundance,cs,database
+Bordetella holmesii,0.05476,0,GTDB202
+Gluconacetobacter diazotrophicus,0.05381,0,GTDB202
+Klebsiella pneumoniae,0.05674,0,GTDB202
+Kosakonia radicincitans,0.04226,0,GTDB202
+Lactiplantibacillus plantarum,0.01343,0,GTDB202
+Lactococcus_A piscium,0.01019,0,GTDB202
+Lactococcus_A piscium,0.02116,0,GTDB202
+Lactococcus_A piscium,0.00745,0,GTDB202
+Legionella rowbothamii,0.0382,0,GTDB202
+Legionella saoudiensis,0.01356,0,GTDB202
+Micropruina glycogenica,0.01748,0,GTDB202
+others,0.08925,0,GTDB202
+Pectobacterium actinidiae,0.03583,0,GTDB202
+Pseudomonas aeruginosa,0.03928,0,GTDB202
+Staphylococcus aureus,0.08652,0,GTDB202
+Treponema_B putidum,0.03402,0,GTDB202
+Vibrio aphrogenes,0.25212,0,GTDB202
+Vibrio cincinnatiensis,0.05377,0,GTDB202
+Wolbachia pipientis,0.01226,0,GTDB202
+Wolbachia sp000376585,0.01021,0,GTDB202
+Xanthomonas oryzae,0.0577,0,GTDB202
+Bordetella holmesii,0.07974,0,minikraken
+Gluconacetobacter diazotrophicus,0.08815,0,minikraken
+Klebsiella pneumoniae,0.11119,0,minikraken
+Kosakonia oryzae,0.01275,0,minikraken
+Kosakonia radicincitans,0.05037,0,minikraken
+Lactobacillus plantarum,0.02155,0,minikraken
+Lactococcus piscium,0.05828,0,minikraken
+Micropruina glycogenica,0.02553,0,minikraken
+others,0.08577,0,minikraken
+Pectobacterium carotovorum,0.0362,0,minikraken
+Pseudomonas aeruginosa,0.06132,0,minikraken
+Salmonella enterica,0.00715,0,minikraken
+Staphylococcus aureus,0.13726,0,minikraken
+Treponema denticola,0.00712,0,minikraken
+Treponema putidum,0.04791,0,minikraken
+Vibrio casei,0.00752,0,minikraken
+Vibrio rumoiensis,0.01825,0,minikraken
+Vibrio splendidus,0.00922,0,minikraken
+Vibrio tasmaniensis,0.00769,0,minikraken
+Wolbachia endosymbiont of Culex quinquefasciatus,0.0389,0,minikraken
+Xanthomonas oryzae,0.08813,0,minikraken
+Bordetella holmesii,0.05136,0,nt
+Escherichia coli,0.00258,0,nt
+Gluconacetobacter diazotrophicus,0.05707,0,nt
+Klebsiella pneumoniae,0.06021,0,nt
+Kosakonia radicincitans,0.04209,0,nt
+Lactiplantibacillus plantarum,0.01393,0,nt
+Lactococcus carnosus,0.03963,0,nt
+Legionella lytica,0.09041,0,nt
+Micropruina glycogenica,0.01652,0,nt
+others,0.0176,0,nt
+Pectobacterium carotovorum,0.03425,0,nt
+Pseudomonas aeruginosa,0.03951,0,nt
+Salmonella enterica,0.00579,0,nt
+Staphylococcus aureus,0.0866,0,nt
+Treponema putidum,0.03876,0,nt
+Vibrio aphrogenes,0.23356,0,nt
+Vibrio artabrorum,0.03453,0,nt
+Vibrio cincinnatiensis,0.05231,0,nt
+Wolbachia endosymbiont of Corcyra cephalonica,0.02395,0,nt
+Wolbachia endosymbiont of Drosophila mauritiana,0.00249,0,nt
+Xanthomonas oryzae,0.05685,0,nt
+Bordetella holmesii,0.05596,0,standard
+Gluconacetobacter diazotrophicus,0.06201,0,standard
+Klebsiella pneumoniae,0.07464,0,standard
+Kosakonia radicincitans,0.04339,0,standard
+Lactiplantibacillus plantarum,0.01509,0,standard
+Lactococcus carnosus,0.04091,0,standard
+Legionella pneumophila,0.00408,0,standard
+Micropruina glycogenica,0.01797,0,standard
+others,0.06305,0,standard
+Pectobacterium carotovorum,0.03703,0,standard
+Pseudomonas aeruginosa,0.042,0,standard
+Salmonella enterica,0.005,0,standard
+Staphylococcus aureus,0.09586,0,standard
+Treponema denticola,0.00592,0,standard
+Treponema putidum,0.03346,0,standard
+Vibrio aphrogenes,0.2551,0,standard
+Vibrio cincinnatiensis,0.05783,0,standard
+Vibrio crassostreae,0.00534,0,standard
+Wolbachia endosymbiont of Chrysomya megacephala,0.01222,0,standard
+Wolbachia endosymbiont of Culex quinquefasciatus,0.01133,0,standard
+Xanthomonas oryzae,0.06181,0,standard
+Bordetella holmesii,0.05114,0,standard16
+Gluconacetobacter diazotrophicus,0.05686,0,standard16
+Klebsiella pneumoniae,0.06628,0,standard16
+Kosakonia radicincitans,0.04149,0,standard16
+Lactiplantibacillus plantarum,0.0139,0,standard16
+Lactococcus carnosus,0.03886,0,standard16
+Legionella lytica,0.09025,0,standard16
+Micropruina glycogenica,0.01661,0,standard16
+others,0.01383,0,standard16
+Pectobacterium actinidiae,0.03698,0,standard16
+Pseudomonas aeruginosa,0.03934,0,standard16
+Salmonella enterica,0.00547,0,standard16
+Staphylococcus aureus,0.08436,0,standard16
+Staphylococcus sp. MZ9,0.00224,0,standard16
+Treponema putidum,0.03833,0,standard16
+Vibrio aphrogenes,0.23252,0,standard16
+Vibrio artabrorum,0.03471,0,standard16
+Vibrio cincinnatiensis,0.0523,0,standard16
+Wolbachia endosymbiont (group B) of Xestia c-nigrum,0.02539,0,standard16
+Wolbachia endosymbiont of Drosophila mauritiana,0.00247,0,standard16
+Xanthomonas oryzae,0.05667,0,standard16
+Bordetella holmesii,0.05916,0.2,GTDB202
+Gluconacetobacter diazotrophicus,0.05923,0.2,GTDB202
+Klebsiella pneumoniae,0.04037,0.2,GTDB202
+Klebsiella quasivariicola,0.02394,0.2,GTDB202
+Kosakonia radicincitans,0.05301,0.2,GTDB202
+Lactiplantibacillus plantarum,0.01455,0.2,GTDB202
+Lactococcus_A piscium,0.00707,0.2,GTDB202
+Lactococcus_A piscium,0.02784,0.2,GTDB202
+Legionella rowbothamii,0.01249,0.2,GTDB202
+Micropruina glycogenica,0.01863,0.2,GTDB202
+others,0.0461,0.2,GTDB202
+Pectobacterium actinidiae,0.03004,0.2,GTDB202
+Pectobacterium fontis,0.00519,0.2,GTDB202
+Pseudomonas aeruginosa,0.04475,0.2,GTDB202
+Staphylococcus aureus,0.09645,0.2,GTDB202
+Treponema_B putidum,0.03734,0.2,GTDB202
+Vibrio aphrogenes,0.2814,0.2,GTDB202
+Vibrio cincinnatiensis,0.06036,0.2,GTDB202
+Wolbachia pipientis,0.00497,0.2,GTDB202
+Wolbachia sp001931755,0.02293,0.2,GTDB202
+Xanthomonas oryzae,0.05418,0.2,GTDB202
+Bordetella holmesii,0.09619,0.2,minikraken
+Escherichia coli,0.00331,0.2,minikraken
+Gluconacetobacter diazotrophicus,0.10705,0.2,minikraken
+Klebsiella pneumoniae,0.14802,0.2,minikraken
+Kosakonia oryzae,0.00326,0.2,minikraken
+Kosakonia radicincitans,0.04856,0.2,minikraken
+Lactobacillus plantarum,0.02571,0.2,minikraken
+Lactococcus piscium,0.05397,0.2,minikraken
+Micropruina glycogenica,0.03112,0.2,minikraken
+others,0.00993,0.2,minikraken
+Pectobacterium carotovorum,0.00542,0.2,minikraken
+Pseudomonas aeruginosa,0.08556,0.2,minikraken
+Salmonella enterica,0.01098,0.2,minikraken
+Staphylococcus aureus,0.17627,0.2,minikraken
+Treponema putidum,0.04885,0.2,minikraken
+Wolbachia endosymbiont of Culex quinquefasciatus,0.03148,0.2,minikraken
+Wolbachia sp. wRi,0.01186,0.2,minikraken
+Xanthomonas oryzae,0.10246,0.2,minikraken
+Bordetella holmesii,0.05282,0.2,nt
+Gluconacetobacter diazotrophicus,0.06094,0.2,nt
+Klebsiella pneumoniae,0.0346,0.2,nt
+Kosakonia radicincitans,0.04903,0.2,nt
+Lactiplantibacillus plantarum,0.01469,0.2,nt
+Lactococcus carnosus,0.04082,0.2,nt
+Legionella lytica,0.09188,0.2,nt
+Micropruina glycogenica,0.01664,0.2,nt
+others,0.00079,0.2,nt
+Pectobacterium carotovorum,0.04425,0.2,nt
+Pectobacterium versatile,0.00062,0.2,nt
+Pseudomonas aeruginosa,0.03941,0.2,nt
+Salmonella enterica,0.00362,0.2,nt
+Staphylococcus aureus,0.0872,0.2,nt
+Treponema putidum,0.03986,0.2,nt
+Vibrio aphrogenes,0.24215,0.2,nt
+Vibrio artabrorum,0.03564,0.2,nt
+Vibrio cincinnatiensis,0.05462,0.2,nt
+Wolbachia endosymbiont of Cadra cautella,0.00016,0.2,nt
+Wolbachia endosymbiont of Corcyra cephalonica,0.03294,0.2,nt
+Xanthomonas oryzae,0.05732,0.2,nt
+Bordetella holmesii,0.05816,0.2,standard
+Gluconacetobacter diazotrophicus,0.06396,0.2,standard
+Klebsiella pneumoniae,0.07962,0.2,standard
+Kosakonia radicincitans,0.04576,0.2,standard
+Lactiplantibacillus plantarum,0.01568,0.2,standard
+Lactococcus carnosus,0.0447,0.2,standard
+Micropruina glycogenica,0.01854,0.2,standard
+others,0.01176,0.2,standard
+Pectobacterium carotovorum,0.03984,0.2,standard
+Pseudomonas aeruginosa,0.04398,0.2,standard
+Salmonella enterica,0.0043,0.2,standard
+Staphylococcus aureus,0.09959,0.2,standard
+Treponema denticola,0.00691,0.2,standard
+Treponema putidum,0.03205,0.2,standard
+Vibrio aphrogenes,0.27105,0.2,standard
+Vibrio cincinnatiensis,0.06646,0.2,standard
+Wolbachia endosymbiont of Chrysomya megacephala,0.01665,0.2,standard
+Wolbachia endosymbiont of Culex quinquefasciatus,0.01205,0.2,standard
+Wolbachia endosymbiont of Diaphorina citri,0.00203,0.2,standard
+Wolbachia pipientis,0.00305,0.2,standard
+Xanthomonas oryzae,0.06386,0.2,standard
+Bordetella holmesii,0.05618,0.2,standard16
+Gluconacetobacter diazotrophicus,0.05765,0.2,standard16
+Klebsiella pneumoniae,0.07287,0.2,standard16
+Kosakonia radicincitans,0.05509,0.2,standard16
+Lactiplantibacillus plantarum,0.0162,0.2,standard16
+Lactococcus carnosus,0.03755,0.2,standard16
+Legionella lytica,0.08965,0.2,standard16
+Micropruina glycogenica,0.01743,0.2,standard16
+Pectobacterium actinidiae,0.03582,0.2,standard16
+Pseudomonas aeruginosa,0.04095,0.2,standard16
+Staphylococcus aureus,0.08697,0.2,standard16
+Streptomyces sp. HNA39,0.0003,0.2,standard16
+Treponema putidum,0.03154,0.2,standard16
+Vibrio aphrogenes,0.24673,0.2,standard16
+Vibrio artabrorum,0.03272,0.2,standard16
+Vibrio cincinnatiensis,0.065,0.2,standard16
+Xanthomonas oryzae,0.05734,0.2,standard16
+others,1.00E-05,0.2,standard16
+Bordetella holmesii,0.06518,0.4,GTDB202
+Gluconacetobacter diazotrophicus,0.06283,0.4,GTDB202
+Klebsiella pneumoniae,0.01934,0.4,GTDB202
+Klebsiella quasivariicola,0.03962,0.4,GTDB202
+Kosakonia radicincitans,0.06858,0.4,GTDB202
+Lactiplantibacillus plantarum,0.01574,0.4,GTDB202
+Lactococcus_A piscium,0.00392,0.4,GTDB202
+Lactococcus_A piscium,0.02845,0.4,GTDB202
+Micropruina glycogenica,0.02021,0.4,GTDB202
+others,0.01767,0.4,GTDB202
+Pectobacterium actinidiae,0.0175,0.4,GTDB202
+Pectobacterium fontis,0.02234,0.4,GTDB202
+Pseudomonas aeruginosa,0.0481,0.4,GTDB202
+Staphylococcus aureus,0.10589,0.4,GTDB202
+Treponema_B putidum,0.03798,0.4,GTDB202
+Vibrio aphrogenes,0.30037,0.4,GTDB202
+Vibrio cincinnatiensis,0.0603,0.4,GTDB202
+Xanthomonas albilineans,0.00498,0.4,GTDB202
+Xanthomonas bromi,0.0118,0.4,GTDB202
+Xanthomonas fragariae,0.00811,0.4,GTDB202
+Xanthomonas oryzae,0.04109,0.4,GTDB202
+Bordetella holmesii,0.09507,0.4,minikraken
+Gluconacetobacter diazotrophicus,0.11418,0.4,minikraken
+Klebsiella pneumoniae,0.14411,0.4,minikraken
+Lactobacillus plantarum,0.02829,0.4,minikraken
+Lactococcus piscium,0.05083,0.4,minikraken
+Micropruina glycogenica,0.03648,0.4,minikraken
+Pseudomonas aeruginosa,0.12234,0.4,minikraken
+Salmonella enterica,0.02583,0.4,minikraken
+Staphylococcus aureus,0.21044,0.4,minikraken
+Treponema putidum,0.04185,0.4,minikraken
+Wolbachia endosymbiont of Culex quinquefasciatus,0.04002,0.4,minikraken
+Xanthomonas oryzae,0.0903,0.4,minikraken
+others,0.00026,0.4,minikraken
+Bordetella holmesii,0.05435,0.4,nt
+Gluconacetobacter diazotrophicus,0.06554,0.4,nt
+Klebsiella pneumoniae,0.0241,0.4,nt
+Kosakonia radicincitans,0.04469,0.4,nt
+Lactiplantibacillus plantarum,0.01475,0.4,nt
+Lactococcus carnosus,0.04136,0.4,nt
+Legionella lytica,0.09408,0.4,nt
+Micropruina glycogenica,0.01685,0.4,nt
+others,0.00042,0.4,nt
+Pectobacterium carotovorum,0.04192,0.4,nt
+Pectobacterium versatile,0.00088,0.4,nt
+Pseudomonas aeruginosa,0.03749,0.4,nt
+Salmonella enterica,0.00325,0.4,nt
+Staphylococcus aureus,0.08285,0.4,nt
+Treponema putidum,0.04016,0.4,nt
+Vibrio aphrogenes,0.25332,0.4,nt
+Vibrio artabrorum,0.03589,0.4,nt
+Vibrio cincinnatiensis,0.05851,0.4,nt
+Wolbachia endosymbiont of Corcyra cephalonica,0.03172,0.4,nt
+Wolbachia endosymbiont of Diaphorina citri,0.00018,0.4,nt
+Xanthomonas oryzae,0.05769,0.4,nt
+Bordetella holmesii,0.05959,0.4,standard
+Gluconacetobacter diazotrophicus,0.0649,0.4,standard
+Klebsiella pneumoniae,0.0788,0.4,standard
+Kosakonia radicincitans,0.04739,0.4,standard
+Lactiplantibacillus plantarum,0.01598,0.4,standard
+Lactococcus carnosus,0.04546,0.4,standard
+Micropruina glycogenica,0.01887,0.4,standard
+others,0.00719,0.4,standard
+Pectobacterium carotovorum,0.03928,0.4,standard
+Pseudomonas aeruginosa,0.04476,0.4,standard
+Salmonella enterica,0.00431,0.4,standard
+Staphylococcus aureus,0.10074,0.4,standard
+Treponema denticola,0.00854,0.4,standard
+Treponema putidum,0.02781,0.4,standard
+Vibrio aphrogenes,0.27192,0.4,standard
+Vibrio cincinnatiensis,0.065,0.4,standard
+Wolbachia endosymbiont of Chrysomya megacephala,0.01916,0.4,standard
+Wolbachia endosymbiont of Culex quinquefasciatus,0.01046,0.4,standard
+Wolbachia endosymbiont of Diaphorina citri,0.00167,0.4,standard
+Wolbachia pipientis,0.00322,0.4,standard
+Xanthomonas oryzae,0.06495,0.4,standard
+Bordetella holmesii,0.07443,0.4,standard16
+Gluconacetobacter diazotrophicus,0.06461,0.4,standard16
+Kosakonia radicincitans,0.07782,0.4,standard16
+Lactiplantibacillus plantarum,0.12609,0.4,standard16
+Lactococcus carnosus,0.03472,0.4,standard16
+Legionella lytica,0.09163,0.4,standard16
+Micropruina glycogenica,0.01897,0.4,standard16
+Treponema putidum,0.02651,0.4,standard16
+Vibrio aphrogenes,0.3217,0.4,standard16
+Vibrio artabrorum,0.02134,0.4,standard16
+Vibrio cincinnatiensis,0.08629,0.4,standard16
+Xanthomonas oryzae,0.05521,0.4,standard16
+others,0.00068,0.4,standard16
+Bordetella holmesii,0.07223,0.6,GTDB202
+Gluconacetobacter diazotrophicus,0.06127,0.6,GTDB202
+Klebsiella pneumoniae,0.00605,0.6,GTDB202
+Klebsiella quasivariicola,0.03676,0.6,GTDB202
+Kosakonia radicincitans,0.0873,0.6,GTDB202
+Lactiplantibacillus plantarum,0.01636,0.6,GTDB202
+Lactococcus_A piscium,0.00209,0.6,GTDB202
+Lactococcus_A piscium,0.01811,0.6,GTDB202
+Legionella rowbothamii,0.00088,0.6,GTDB202
+Micropruina glycogenica,0.02144,0.6,GTDB202
+others,0.00464,0.6,GTDB202
+Pectobacterium actinidiae,0.00698,0.6,GTDB202
+Pectobacterium fontis,0.02567,0.6,GTDB202
+Pseudomonas aeruginosa,0.05032,0.6,GTDB202
+Staphylococcus argenteus,0.00099,0.6,GTDB202
+Staphylococcus aureus,0.11048,0.6,GTDB202
+Treponema_B putidum,0.03273,0.6,GTDB202
+Vibrio aphrogenes,0.3249,0.6,GTDB202
+Vibrio cincinnatiensis,0.05576,0.6,GTDB202
+Xanthomonas albilineans,0.04313,0.6,GTDB202
+Xanthomonas oryzae,0.02191,0.6,GTDB202
+Bordetella holmesii,0.05584,0.6,nt
+Gluconacetobacter diazotrophicus,0.06969,0.6,nt
+Klebsiella pneumoniae,0.0221,0.6,nt
+Kosakonia radicincitans,0.04022,0.6,nt
+Lactiplantibacillus plantarum,0.0152,0.6,nt
+Lactococcus carnosus,0.04057,0.6,nt
+Legionella lytica,0.09717,0.6,nt
+Micropruina glycogenica,0.01714,0.6,nt
+others,1.00E-04,0.6,nt
+Pectobacterium carotovorum,0.03356,0.6,nt
+Pectobacterium sp. F1-1,0.00014,0.6,nt
+Pectobacterium versatile,0.00143,0.6,nt
+Pseudomonas aeruginosa,0.03462,0.6,nt
+Salmonella enterica,0.00271,0.6,nt
+Staphylococcus aureus,0.07897,0.6,nt
+Treponema putidum,0.03768,0.6,nt
+Vibrio aphrogenes,0.26555,0.6,nt
+Vibrio artabrorum,0.03527,0.6,nt
+Vibrio cincinnatiensis,0.06672,0.6,nt
+Wolbachia endosymbiont of Corcyra cephalonica,0.02763,0.6,nt
+Xanthomonas oryzae,0.05769,0.6,nt
+Bordetella holmesii,0.06217,0.6,standard
+Escherichia coli,0.00303,0.6,standard
+Gluconacetobacter diazotrophicus,0.06492,0.6,standard
+Klebsiella pneumoniae,0.08111,0.6,standard
+Kosakonia radicincitans,0.04598,0.6,standard
+Lactiplantibacillus plantarum,0.01651,0.6,standard
+Lactococcus carnosus,0.04571,0.6,standard
+Micropruina glycogenica,0.01928,0.6,standard
+others,0.00388,0.6,standard
+Pectobacterium carotovorum,0.03417,0.6,standard
+Pseudomonas aeruginosa,0.04564,0.6,standard
+Salmonella enterica,0.00449,0.6,standard
+Staphylococcus aureus,0.10147,0.6,standard
+Treponema denticola,0.0092,0.6,standard
+Treponema putidum,0.02104,0.6,standard
+Vibrio aphrogenes,0.27454,0.6,standard
+Vibrio cincinnatiensis,0.06767,0.6,standard
+Wolbachia endosymbiont of Chrysomya megacephala,0.02477,0.6,standard
+Wolbachia endosymbiont of Culex quinquefasciatus,0.00708,0.6,standard
+Wolbachia pipientis,0.00157,0.6,standard
+Xanthomonas oryzae,0.06577,0.6,standard
+Bordetella holmesii,0.08988,0.8,GTDB202
+Gluconacetobacter diazotrophicus,0.05906,0.8,GTDB202
+Klebsiella pneumoniae,0.00128,0.8,GTDB202
+Klebsiella quasivariicola,0.02272,0.8,GTDB202
+Kosakonia radicincitans,0.09555,0.8,GTDB202
+Lactiplantibacillus plantarum,0.01676,0.8,GTDB202
+Lactococcus_A piscium,0.00043,0.8,GTDB202
+Lactococcus_A piscium,0.00811,0.8,GTDB202
+Legionella rowbothamii,0.00054,0.8,GTDB202
+Micropruina glycogenica,0.02464,0.8,GTDB202
+others,0.00117,0.8,GTDB202
+Pectobacterium actinidiae,0.00225,0.8,GTDB202
+Pectobacterium fontis,0.01685,0.8,GTDB202
+Pseudomonas aeruginosa,0.05489,0.8,GTDB202
+Salmonella enterica,0.00047,0.8,GTDB202
+Staphylococcus argenteus,0.00107,0.8,GTDB202
+Staphylococcus aureus,0.12185,0.8,GTDB202
+Treponema_B putidum,0.02467,0.8,GTDB202
+Vibrio aphrogenes,0.40432,0.8,GTDB202
+Vibrio cincinnatiensis,0.04501,0.8,GTDB202
+Xanthomonas oryzae,0.00848,0.8,GTDB202
+Bordetella holmesii,0.05812,0.8,nt
+Gluconacetobacter diazotrophicus,0.07414,0.8,nt
+Klebsiella pneumoniae,0.02856,0.8,nt
+Kosakonia radicincitans,0.03255,0.8,nt
+Lactiplantibacillus plantarum,0.01705,0.8,nt
+Lactococcus carnosus,0.03674,0.8,nt
+Legionella lytica,0.09822,0.8,nt
+Micropruina glycogenica,0.01787,0.8,nt
+Pectobacterium carotovorum,0.01966,0.8,nt
+Pectobacterium versatile,0.00137,0.8,nt
+Pseudomonas aeruginosa,0.03916,0.8,nt
+Staphylococcus aureus,0.07539,0.8,nt
+Treponema putidum,0.02975,0.8,nt
+Vibrio aphrogenes,0.27842,0.8,nt
+Vibrio artabrorum,0.03239,0.8,nt
+Vibrio cincinnatiensis,0.0829,0.8,nt
+Wolbachia endosymbiont of Corcyra cephalonica,0.02208,0.8,nt
+Xanthomonas oryzae,0.05562,0.8,nt
+others,1.00E-05,0.8,nt
+Bordetella holmesii,0.06765,0.8,standard
+Escherichia coli,0.00564,0.8,standard
+Gluconacetobacter diazotrophicus,0.06483,0.8,standard
+Klebsiella pneumoniae,0.0871,0.8,standard
+Kosakonia radicincitans,0.03861,0.8,standard
+Lactiplantibacillus plantarum,0.01788,0.8,standard
+Lactococcus carnosus,0.0434,0.8,standard
+Micropruina glycogenica,0.02015,0.8,standard
+others,0.00153,0.8,standard
+Pectobacterium carotovorum,0.02056,0.8,standard
+Pseudomonas aeruginosa,0.04619,0.8,standard
+Salmonella enterica,0.00411,0.8,standard
+Staphylococcus aureus,0.10398,0.8,standard
+Treponema denticola,0.00804,0.8,standard
+Treponema putidum,0.0125,0.8,standard
+Vibrio aphrogenes,0.28395,0.8,standard
+Vibrio cincinnatiensis,0.07877,0.8,standard
+Wolbachia endosymbiont of Chrysomya megacephala,0.02466,0.8,standard
+Wolbachia endosymbiont of Culex quinquefasciatus,0.00411,0.8,standard
+Wolbachia pipientis,0.00089,0.8,standard
+Xanthomonas oryzae,0.06545,0.8,standard
+Bordetella holmesii,0.0866,1,GTDB202
+Escherichia coli,0.00004,1,GTDB202
+Gluconacetobacter diazotrophicus,0.02732,1,GTDB202
+Klebsiella pneumoniae,0.00009,1,GTDB202
+Kosakonia radicincitans,0.04224,1,GTDB202
+Lactiplantibacillus plantarum,0.01627,1,GTDB202
+Lactococcus_A piscium,0.0017,1,GTDB202
+Micropruina glycogenica,0.01282,1,GTDB202
+Pectobacterium actinidiae,0.00039,1,GTDB202
+Pseudomonas aeruginosa,0.04283,1,GTDB202
+Salmonella enterica,0.00018,1,GTDB202
+Staphylococcus argenteus,0.00199,1,GTDB202
+Staphylococcus aureus,0.15141,1,GTDB202
+Treponema_B putidum,0.01245,1,GTDB202
+Vibrio aphrogenes,0.58477,1,GTDB202
+Vibrio cincinnatiensis,0.018,1,GTDB202
+Wolbachia pipientis,0.00001,1,GTDB202
+Xanthomonas oryzae,0.00087,1,GTDB202
+others,2.00E-05,1,GTDB202
+Bordetella holmesii,0.05105,1,nt
+Gluconacetobacter diazotrophicus,0.08983,1,nt
+Klebsiella pneumoniae,0.06172,1,nt
+Kosakonia radicincitans,0.01767,1,nt
+Lactiplantibacillus plantarum,0.03951,1,nt
+Lactococcus carnosus,0.02065,1,nt
+Legionella lytica,0.12996,1,nt
+Micropruina glycogenica,0.01253,1,nt
+Pectobacterium carotovorum,0.00378,1,nt
+Pseudomonas aeruginosa,0.06488,1,nt
+Treponema putidum,0.01303,1,nt
+Vibrio aphrogenes,0.31739,1,nt
+Vibrio artabrorum,0.03199,1,nt
+Vibrio cincinnatiensis,0.11256,1,nt
+Xanthomonas oryzae,0.03344,1,nt
+others,1.00E-05,1,nt
+Bordetella holmesii,0.0785,1,standard
+Gluconacetobacter diazotrophicus,0.04895,1,standard
+Klebsiella pneumoniae,0.08977,1,standard
+Kosakonia radicincitans,0.01529,1,standard
+Lactiplantibacillus plantarum,0.0232,1,standard
+Lactococcus carnosus,0.03881,1,standard
+Micropruina glycogenica,0.01613,1,standard
+Pectobacterium carotovorum,0.00417,1,standard
+Pseudomonas aeruginosa,0.04214,1,standard
+Salmonella enterica,0.0022,1,standard
+Staphylococcus aureus,0.10012,1,standard
+Treponema denticola,0.00607,1,standard
+Treponema putidum,0.00526,1,standard
+Vibrio aphrogenes,0.34272,1,standard
+Vibrio cincinnatiensis,0.12502,1,standard
+Vibrio vulnificus,0.00012,1,standard
+Wolbachia endosymbiont of Chrysomya megacephala,0.01833,1,standard
+Wolbachia endosymbiont of Culex quinquefasciatus,0.00146,1,standard
+Xanthomonas oryzae,0.04172,1,standard
+others,2.00E-05,1,standard
+Bordetella holmesii,0.05153,9,GTDB202
+Escherichia coli ,0.00194,9,GTDB202
+Gluconacetobacter diazotrophicus,0.05687,9,GTDB202
+Klebsiella pneumoniae,0.06842,9,GTDB202
+Kosakonia radicincitans,0.04151,9,GTDB202
+Lactiplantibacillus plantarum,0.01389,9,GTDB202
+Lactococcus carnosus,0.03973,9,GTDB202
+Legionella lytica,0.09022,9,GTDB202
+Micropruina glycogenica,0.01648,9,GTDB202
+Pectobacterium actinidiae,0.0374,9,GTDB202
+Pseudomonas aeruginosa,0.03887,9,GTDB202
+Salmonella enterica,0.00378,9,GTDB202
+Staphylococcus aureus,0.02305,9,GTDB202
+Staphylococcus aureus,0.066,9,GTDB202
+Treponema putidum,0.03899,9,GTDB202
+Vibrio aphrogenes,0.23365,9,GTDB202
+Vibrio artabrorum,0.03426,9,GTDB202
+Vibrio cincinnatiensis,0.05243,9,GTDB202
+Wolbachia,0.03429,9,GTDB202
+Xanthomonas oryzae,0.05671,9,GTDB202
+Bordetella holmesii,0.05153,9,minikraken
+Escherichia coli ,0.00194,9,minikraken
+Gluconacetobacter diazotrophicus,0.05687,9,minikraken
+Klebsiella pneumoniae,0.06842,9,minikraken
+Kosakonia radicincitans,0.04151,9,minikraken
+Lactiplantibacillus plantarum,0.01389,9,minikraken
+Lactococcus carnosus,0.03973,9,minikraken
+Legionella lytica,0.09022,9,minikraken
+Micropruina glycogenica,0.01648,9,minikraken
+Pectobacterium actinidiae,0.0374,9,minikraken
+Pseudomonas aeruginosa,0.03887,9,minikraken
+Salmonella enterica,0.00378,9,minikraken
+Staphylococcus aureus,0.02305,9,minikraken
+Staphylococcus aureus,0.066,9,minikraken
+Treponema putidum,0.03899,9,minikraken
+Vibrio aphrogenes,0.23365,9,minikraken
+Vibrio artabrorum,0.03426,9,minikraken
+Vibrio cincinnatiensis,0.05243,9,minikraken
+Wolbachia,0.03429,9,minikraken
+Xanthomonas oryzae,0.05671,9,minikraken
+Bordetella holmesii,0.05153,9,nt
+Escherichia coli ,0.00194,9,nt
+Gluconacetobacter diazotrophicus,0.05687,9,nt
+Klebsiella pneumoniae,0.06842,9,nt
+Kosakonia radicincitans,0.04151,9,nt
+Lactiplantibacillus plantarum,0.01389,9,nt
+Lactococcus carnosus,0.03973,9,nt
+Legionella lytica,0.09022,9,nt
+Micropruina glycogenica,0.01648,9,nt
+Pectobacterium actinidiae,0.0374,9,nt
+Pseudomonas aeruginosa,0.03887,9,nt
+Salmonella enterica,0.00378,9,nt
+Staphylococcus aureus,0.02305,9,nt
+Staphylococcus aureus,0.066,9,nt
+Treponema putidum,0.03899,9,nt
+Vibrio aphrogenes,0.23365,9,nt
+Vibrio artabrorum,0.03426,9,nt
+Vibrio cincinnatiensis,0.05243,9,nt
+Wolbachia,0.03429,9,nt
+Xanthomonas oryzae,0.05671,9,nt
+Bordetella holmesii,0.05153,9,standard
+Escherichia coli ,0.00194,9,standard
+Gluconacetobacter diazotrophicus,0.05687,9,standard
+Klebsiella pneumoniae,0.06842,9,standard
+Kosakonia radicincitans,0.04151,9,standard
+Lactiplantibacillus plantarum,0.01389,9,standard
+Lactococcus carnosus,0.03973,9,standard
+Legionella lytica,0.09022,9,standard
+Micropruina glycogenica,0.01648,9,standard
+Pectobacterium actinidiae,0.0374,9,standard
+Pseudomonas aeruginosa,0.03887,9,standard
+Salmonella enterica,0.00378,9,standard
+Staphylococcus aureus,0.02305,9,standard
+Staphylococcus aureus,0.066,9,standard
+Treponema putidum,0.03899,9,standard
+Vibrio aphrogenes,0.23365,9,standard
+Vibrio artabrorum,0.03426,9,standard
+Vibrio cincinnatiensis,0.05243,9,standard
+Wolbachia,0.03429,9,standard
+Xanthomonas oryzae,0.05671,9,standard
+Bordetella holmesii,0.05153,9,standard16
+Escherichia coli ,0.00194,9,standard16
+Gluconacetobacter diazotrophicus,0.05687,9,standard16
+Klebsiella pneumoniae,0.06842,9,standard16
+Kosakonia radicincitans,0.04151,9,standard16
+Lactiplantibacillus plantarum,0.01389,9,standard16
+Lactococcus carnosus,0.03973,9,standard16
+Legionella lytica,0.09022,9,standard16
+Micropruina glycogenica,0.01648,9,standard16
+Pectobacterium actinidiae,0.0374,9,standard16
+Pseudomonas aeruginosa,0.03887,9,standard16
+Salmonella enterica,0.00378,9,standard16
+Staphylococcus aureus,0.02305,9,standard16
+Staphylococcus aureus,0.066,9,standard16
+Treponema putidum,0.03899,9,standard16
+Vibrio aphrogenes,0.23365,9,standard16
+Vibrio artabrorum,0.03426,9,standard16
+Vibrio cincinnatiensis,0.05243,9,standard16
+Wolbachia,0.03429,9,standard16
+Xanthomonas oryzae,0.05671,9,standard16
